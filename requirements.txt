@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-chroma
+langchain-openai
+chromadb
+GitPython
+python-dotenv
+tiktoken
+pydantic
